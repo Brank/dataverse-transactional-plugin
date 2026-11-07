@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\dataverse-transactional-plugin\\ContractTransactionalPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCFE2E-6BA8-4252-A64F-080426E865AF}|ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj|c:\\git\\dataverse-transactional-plugin\\contracttransactionalplugin\\contracttransactionalplugin\\contractplugindelayed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DCFE2E-6BA8-4252-A64F-080426E865AF}|ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj|solutionrelative:contracttransactionalplugin\\contractplugindelayed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCFE2E-6BA8-4252-A64F-080426E865AF}|ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj|c:\\git\\dataverse-transactional-plugin\\contracttransactionalplugin\\contracttransactionalplugin\\contractplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DCFE2E-6BA8-4252-A64F-080426E865AF}|ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj|solutionrelative:contracttransactionalplugin\\contractplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ContractTransactionalPlugin||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94DCFE2E-6BA8-4252-A64F-080426E865AF}|ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj|c:\\git\\dataverse-transactional-plugin\\contracttransactionalplugin\\contracttransactionalplugin\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractPluginDelayed.cs",
+              "DocumentMoniker": "C:\\GIT\\dataverse-transactional-plugin\\ContractTransactionalPlugin\\ContractTransactionalPlugin\\ContractPluginDelayed.cs",
+              "RelativeDocumentMoniker": "ContractTransactionalPlugin\\ContractPluginDelayed.cs",
+              "ToolTip": "C:\\GIT\\dataverse-transactional-plugin\\ContractTransactionalPlugin\\ContractTransactionalPlugin\\ContractPluginDelayed.cs",
+              "RelativeToolTip": "ContractTransactionalPlugin\\ContractPluginDelayed.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:18:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f2a6b1aa-517d-4b80-b06c-83ed263724c7}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContractTransactionalPlugin",
+              "DocumentMoniker": "C:\\GIT\\dataverse-transactional-plugin\\ContractTransactionalPlugin\\ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj",
+              "RelativeDocumentMoniker": "ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj",
+              "ToolTip": "C:\\GIT\\dataverse-transactional-plugin\\ContractTransactionalPlugin\\ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj",
+              "RelativeToolTip": "ContractTransactionalPlugin\\ContractTransactionalPlugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-07T18:25:44.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractPlugin.cs",
+              "DocumentMoniker": "C:\\GIT\\dataverse-transactional-plugin\\ContractTransactionalPlugin\\ContractTransactionalPlugin\\ContractPlugin.cs",
+              "RelativeDocumentMoniker": "ContractTransactionalPlugin\\ContractPlugin.cs",
+              "ToolTip": "C:\\GIT\\dataverse-transactional-plugin\\ContractTransactionalPlugin\\ContractTransactionalPlugin\\ContractPlugin.cs",
+              "RelativeToolTip": "ContractTransactionalPlugin\\ContractPlugin.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T17:55:30.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
